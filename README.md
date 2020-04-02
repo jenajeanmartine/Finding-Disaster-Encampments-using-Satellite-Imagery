@@ -8,9 +8,9 @@ During disasters, emergency management agencies and humanitarian organizations n
 Create an app that can automate the process of rapidly identifying informal tent shelters erected by communities immediately following a natural disaster.
 
 This project demonstrates a technical implementation of Step 1) of our objectives below, and outlines a practical approach to tackling the next steps objective 2) and 3).
-Train a model to identify areas of damage surrounding a natural disaster. (completed)
-Next Steps: Train another model to identify tent encampments in satellite imagery. (See Additional Resources for Next Steps.)
-Next Steps: Use the locations of areas with damage as starting locations for an app that automatically scans the surrounding areas and identifies and alerts users of the whereabouts of any tent encampments (See Additional Resources for Next Steps.)
+1) Train a model to identify areas of damage surrounding a natural disaster. (completed)
+2) Next Steps: Train another model to identify tent encampments in satellite imagery. (See Additional Resources for Next Steps.)
+3) Next Steps: Use the locations of areas with damage as starting locations for an app that automatically scans the surrounding areas and identifies and alerts users of the whereabouts of any tent encampments (See Additional Resources for Next Steps.)
 
 
 ## Description of Data
