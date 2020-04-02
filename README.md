@@ -1,5 +1,5 @@
 # Finding Tents and Other Emergency Housing Through Exploitation of Satellite Imagery
-
+#### A project by Sruthi Koppuravuri and Jena Brentano
 ## Problem Statement
 During disasters, emergency management agencies and humanitarian organizations need to know where survivors are congregating in order to provide emergency supplies and services. 
 
