@@ -25,11 +25,11 @@ Please refer to the Google Slides below for more information and recommendations
 
 ## Additional Resources for Next Steps:
 
-Tools/Resources for using Google Earth Engine for viewing and processing satellite data
-Google Colab (like a jupyter notebook) is a relatively easy way to interface with Google Earth Engine using Python. (There is also a more widely used Javascript API with a GUI.)
-Google Earth Pro (download, free) can be used to just explore satellite imagery, and peek at images at different points in history
-Good intro to interfacing with Google Earth Engine with Python through Google Colab: https://youtu.be/IGUYSeoeHhg
-Information for Google Earth Engine with Python: https://developers.google.com/earth-engine/python_install.html
+Tools/Resources for using Google Earth Engine for viewing and processing satellite data:
+ - Google Colab (like a jupyter notebook) is a relatively easy way to interface with Google Earth Engine using Python. (There is also a more widely used Javascript API with a GUI and there are many more resources for learning this interface online than the Python alternative.)
+ - Google Earth Pro (download, free) can be used to just explore satellite imagery, and peek at images at different points in history
+ - Good intro to interfacing with Google Earth Engine with Python through Google Colab: https://youtu.be/IGUYSeoeHhg
+ - Information for Google Earth Engine with Python: https://developers.google.com/earth-engine/python_install.html
 
 ### Modeling 
 Using Tensor Flow in Google Colab:
@@ -40,7 +40,7 @@ Two papers are linked below on using segmentation and other techniques to detect
 https://www.researchgate.net/publication/270455774_Detecting_tents_to_estimate_the_displaced_populations_for_post-disaster_relief_using_high_resolution_satellite_imagery
 
 ### Data and Labelling for tent detection model
-MapSwipe (OpenStreetMap)
+MapSwipe (OpenStreetMap): 
 OpenStreetMap has a project called Missing Maps. Users can download the MapSwipe app to participate in labelling satellite images for a variety of projects. Projects include things like mapping refugee camps, mapping rural communities that might be prone to natural disaster or that need to be identified in order to prevent malaria. There are potentially useful datasets for training a model, or MapSwipe could possibly host a dataset to be labelled for a good cause.
 Link to data: https://mapswipe.org/data.html
 
